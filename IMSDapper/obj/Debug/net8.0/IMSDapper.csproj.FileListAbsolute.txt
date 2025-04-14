@@ -1,0 +1,12 @@
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\bin\Debug\net8.0\IMSDapper.deps.json
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\bin\Debug\net8.0\IMSDapper.dll
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\bin\Debug\net8.0\IMSDapper.pdb
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\obj\Debug\net8.0\IMSDapper.csproj.AssemblyReference.cache
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\obj\Debug\net8.0\IMSDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\obj\Debug\net8.0\IMSDapper.AssemblyInfoInputs.cache
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\obj\Debug\net8.0\IMSDapper.AssemblyInfo.cs
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\obj\Debug\net8.0\IMSDapper.csproj.CoreCompileInputs.cache
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\obj\Debug\net8.0\IMSDapper.dll
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\obj\Debug\net8.0\refint\IMSDapper.dll
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\obj\Debug\net8.0\IMSDapper.pdb
+C:\Users\HR PC\Desktop\InventorySystem\IMS\IMSDapper\IMSDapper\obj\Debug\net8.0\ref\IMSDapper.dll
